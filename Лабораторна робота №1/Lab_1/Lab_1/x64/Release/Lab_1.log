@@ -1,0 +1,1 @@
+﻿C:\Programs\Visuak Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(829,9): error MSB4030: "No (/sdl)" is an invalid value for the "SDLCheck" parameter of the "CL" task. The "SDLCheck" parameter is of type "System.Boolean".
