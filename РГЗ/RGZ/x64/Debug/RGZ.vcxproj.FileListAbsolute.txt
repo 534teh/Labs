@@ -1,0 +1,4 @@
+C:\Labs\RGZ\x64\Debug\RGZ.vcxproj.AssemblyReference.cache
+C:\Labs\RGZ\x64\Debug\RGZ.MyForm.resources
+C:\Labs\RGZ\x64\Debug\RGZ.vcxproj.GenerateResource.cache
+C:\Labs\RGZ\x64\Debug\RGZ.exe

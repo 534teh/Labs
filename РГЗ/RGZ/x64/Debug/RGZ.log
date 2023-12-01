@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Labs\RGZ\MyForm.cpp(29,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RGZ.vcxproj -> C:\Labs\RGZ\x64\Debug\RGZ.exe
